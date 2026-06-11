@@ -59,4 +59,4 @@
 - [产品需求文档 (PRD)](./PRD.md)
 - [典型用户画像](./research/user_personas.md)
 - [产品逻辑架构图](./assets/architecture.png)
-- [数据与合规边界图](./assets/data_boundary.png)
+- [数据与合规边界](./docs/data-boundary.md)
