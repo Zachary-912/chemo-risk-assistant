@@ -12,10 +12,10 @@
 <br>
 
 <div align="center">
-  <a href="[https://kanghuban.cn/]">
+  <a href="https://kanghuban.cn/">
     <img src="assets/demo.gif" alt="演示动图" width="80%">
   </a>
-  <p>👆 点击图片跳转在线 Demo（或 <a href="[https://kanghuban.cn/]">点这里</a>）</p>
+  <p>👆 点击图片跳转在线 Demo（或 <a href="https://kanghuban.cn/">点这里</a>）</p>
 </div>
 
 ---
@@ -34,7 +34,7 @@
 
 ## 在线体验
 
-👉 **[在线 Demo]([https://kanghuban.cn/])**
+👉 **[在线 Demo](https://kanghuban.cn/)**
 
 目前是模拟数据版本，可以完整走通：记录症状 → 查看风险提示 → 生成问诊描述。
 
@@ -47,16 +47,19 @@
 
 ## 技术栈
 
-```json
-{
-  "前端": "React 18 + Vite + TypeScript",
-  "样式": "Tailwind CSS",
-  "数据": "Supabase（仅非诊疗数据）",
-  "部署": "腾讯云",
-  "风险计算": "纯前端 JS 规则引擎（基于公开指南阈值）"
-}
+```
+React 18 + Vite + TypeScript
+Tailwind CSS
+Supabase（仅非诊疗数据）
+腾讯云部署
+纯前端 JS 规则引擎（基于公开指南阈值）
+```
+
 ## 项目文档
 - [产品需求文档 (PRD)](./PRD.md)
 - [典型用户画像](./research/user_personas.md)
 - [产品逻辑架构图](./assets/architecture.png)
 - [数据与合规边界](./docs/data-boundary.md)
+
+## 关于我
+因为家人的治疗过程，一边陪护一边用AI设计产品，把这个工具从想法做到能用的程度。目前还是自用状态，欢迎体验和反馈。
